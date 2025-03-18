@@ -1,1 +1,0 @@
-# clarusway-aws-devops-18
